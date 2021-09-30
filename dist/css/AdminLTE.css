@@ -40,7 +40,7 @@ body {
   clear: both;
 }
 .layout-boxed .wrapper {
-  max-width: 1250px;
+  max-width: 1050px;
   margin: 0 auto;
   min-height: 100%;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
@@ -252,7 +252,7 @@ a:focus {
   }
 }
 .main-header .sidebar-toggle {
-  float: left;
+
   background-color: transparent;
   background-image: none;
   padding: 15px 15px;
@@ -2048,6 +2048,7 @@ a:focus {
 }
 .box-input {
   max-width: 200px;
+
 }
 .modal .panel-body {
   color: #444;
@@ -2062,8 +2063,9 @@ a:focus {
   background: #fff;
   width: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-  border-radius: 2px;
+  border-radius: 15px;
   margin-bottom: 15px;
+
 }
 .info-box small {
   font-size: 14px;
